@@ -7,6 +7,8 @@ Clean code:
 Code is as structured as possible. I tried to use as many definitons as possible.
 The most sloppy code piece is the "While True" loop which is just a huge block of code...
 Comments and indentation are included in 99% of the python file.
+Requirements.txt is added ; but probably has a lot of not needed requirements.
+Had to include it anyway.
 
 Web Service Connectivity:
 Custom web service connectivity without the use of 3rd party software. There is a 3rd party wrapper tool available for the Marval API for easier access; which was NOT allowed for this project.
